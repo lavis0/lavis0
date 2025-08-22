@@ -5,6 +5,6 @@ I'm Josh and I'm currently working on [Syncade](https://syncade.co.uk), which ma
 
 I enjoy writing code in Python and C++ the most, but often interact with C, Go, JavaScript and TypeScript. In Python, I've explored: data analystics libraires and workflows, including pandas, numpy, Tensorflow and PyTorch; GUI design through PyQt and Pygame.
 
-- 🔭 I’m currently working on Syncade and an AWS Cloud Practicioner cert. 
+- 🔭 I’m currently working on Syncade and an AWS Cloud Practitioner cert. 
 - 🌱 I’m currently learning operating systems secuirty, systems design and functional programming.
 - 📫 How to reach me: https://folient.com/contact
